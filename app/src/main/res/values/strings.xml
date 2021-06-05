@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catetan</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="changes">Perubahan</string>
+    <string name="question_changes">Terdapat perubahan data yang belum tersimpan, Apakah anda yakin untuk keluar?</string>
+    <string name="delete">Hapus</string>
+</resources>
